@@ -1,0 +1,36 @@
+<!--
+Project:LM02 Solo Lab Travel to Berlin  Web Page Style Sheet
+Purpose Details: To utlitize the style sheet.
+Course: IST 256
+Author: Purna Bhattarai
+Date Developed: 09/05/2020
+Last Date Changed:
+Revision:
+-->
+body{
+  background-color:#f4f0fe;/* lite purple*/
+  margin:auto;
+  padding: 0px 150px 0px;
+  font-family:"Times New Roman ", serif;
+  font-size: 20px;
+  color:black;
+}
+header {
+  padding:0;
+  font-family:"Times New Roman ", serif;
+  font-size: 24px;
+  color: black;
+
+}
+.align-center{text-align: center;}
+footer{
+  color: red;
+  padding: 0;
+  font-family: "Times New Roman ", serif;
+  font-size: 12px;
+  background-color: : #4b2e83;
+}
+
+h1{
+  text-align: center;
+}
